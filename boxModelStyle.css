@@ -1,0 +1,20 @@
+
+p{
+	/*Content - Width and Height - tamaño usado puede estar definido tanto en pixeles como porcentajes*/
+
+	width: 50%;
+
+	/*Border - el borde...*/
+
+	border: 2px solid blue;
+
+	/*Padding - espacio entre el elemento y su borde*/
+
+	padding-left: 40px;
+
+	/*Margin - espacio entre elementos*/
+
+	/*margin: 20px 40px 500px 100px;*/
+	/*margin: 0 auto 0 auto;*/
+	margin: 20px auto;
+}

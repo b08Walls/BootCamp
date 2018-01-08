@@ -1,0 +1,40 @@
+/*Elements*/
+li{
+
+}
+
+/*class*/
+.hello{
+
+}
+
+/*id*/
+#name{
+
+}
+
+/*Star*/
+*{
+	border: 1px solid lightgrey;
+}
+
+/*Descendant Seletors, all ancher tags inside a listed item*/
+li a {
+	color: red;
+}
+
+/*Adjacent Seletors all ul that come after an h4*/
+h4 + ul {
+	border: 5px solid red;
+}
+
+/*Attribute Seletors*/
+a[href="http://google.com"] {
+	background: blue;
+}
+
+/*nth of type*/
+li:nth-of-type(even){
+	background: purple;
+}
+

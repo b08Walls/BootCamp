@@ -1,0 +1,36 @@
+/*Hay distintos tipos de etiquetas para las hojas de estilo, depende mucho que etiqueta usemos
+que tan especifica es, las primeras escritas a continuación hablan de seleccionadores de tipo
+los cuales no son muy especificos que digamos, luego vienen las clases, las cuales son 10 veces
+más especificos y finalmente lo más especifico que puede haber es un ID*/
+
+
+/*Type selectors*/
+
+li{
+
+}
+
+li a{
+
+}
+
+li + a{
+
+}
+
+/*Class, Attribute, and Pseudo-Class Selectors*/
+
+.hello{
+
+}
+
+input[type="text"]
+{
+
+}
+
+/*ID Selector*/
+
+#hello{
+
+}

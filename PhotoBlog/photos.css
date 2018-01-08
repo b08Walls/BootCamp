@@ -1,0 +1,15 @@
+img{
+	width:30%;
+	floatoat: left;
+	margin: 20px 1.66%;
+}
+
+p{
+	font-family: 'Pacifico', cursive;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+
+	border-bottom: 3px solid #0f0f0f;
+	width: 30%;
+}

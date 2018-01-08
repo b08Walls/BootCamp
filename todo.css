@@ -1,0 +1,17 @@
+
+
+li{
+	border: 2px solid red;
+}
+
+#lastOne{
+	background: blue;
+}
+
+#goodOne{
+	background: yellow;
+}
+
+.completed{
+	text-decoration: line-through;
+}

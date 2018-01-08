@@ -1,0 +1,26 @@
+
+h1{
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px solid purple;
+}
+
+h4{
+	color: green;
+	background: rgb(255,100,80);
+}
+
+li{
+	color: brown;
+}
+
+body{
+	background-color: pink;
+	/*background: url(http://imgsdown.1mobile.com/group1/M00/68/8D/S36rZlf5bNyAEN5NAAJHFf9n1Sk96.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover*/;
+
+}
